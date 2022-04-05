@@ -18,6 +18,6 @@ The simulation proceeds in discrete steps. Each step changes the cells in the fo
     
 Run worldwire.py to start it. Requires Python 3.
 
-Examples
+
 
 Conductor cells are yellow, electron heads are blue and electron tails are red.
